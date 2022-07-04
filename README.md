@@ -1,7 +1,7 @@
-# BeProductive
+# Manage It!
 
 To Use the Extension, follow these steps:
-* Download all the files from here.
+* Download zip file of given repository.
 * Extract them in a folder.
 * Go to manage extensions in the settings of Chrome Browser.
 * Click on the "Load Unpacked Extension" at the top left.
